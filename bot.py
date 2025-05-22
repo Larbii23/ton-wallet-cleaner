@@ -2,7 +2,7 @@ import telebot
 import requests
 
 API_TOKEN = '7995161698:AAHq8XOaxk7Hz7YP7gjNuhRFa770maC9M8o'  # Ton token Telegram
-TON_CENTER_API_KEY = 'TA_CLE_API_TONCENTER_ICI'  # Ta clé API TON Center (à créer)
+TON_CENTER_API_KEY = '5d7d10ce1deb47f492191acddf5de22146ede57c26389ae7044256f8cefbeb0b'  # Ta clé API TON Center (à créer)
 
 bot = telebot.TeleBot(API_TOKEN)
 
